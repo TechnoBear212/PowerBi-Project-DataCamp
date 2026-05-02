@@ -1,0 +1,25 @@
+Project Title: Power BI Data Analysis Dashboard
+
+Description:
+This project involves the development of an interactive dashboard using Power BI to analyze and visualize data. The aim is to convert raw data into meaningful insights through effective data modeling, DAX calculations, and visual representation.
+
+Key Components:
+- Data cleaning and preprocessing
+- Data modeling and relationships
+- Creation of calculated measures using DAX
+- Interactive dashboard design
+
+Objectives:
+- To enhance data visualization skills
+- To understand business intelligence concepts
+- To apply analytical thinking in real-world datasets
+
+Outcome:
+The final dashboard allows users to explore data dynamically and gain insights through charts, filters, and key performance indicators.
+
+Tools Used:
+- Power BI Desktop
+- DAX
+
+Conclusion:
+This project demonstrates the ability to transform raw data into actionable insights using modern BI tools, making it valuable for academic and professional applications.
