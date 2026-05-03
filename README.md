@@ -1,4 +1,4 @@
-# PowerBi-Project-DataCamp
+# PowerBi-Project-AtomCamp
 A data visualization and analysis project built using Power BI, focusing on extracting insights through interactive dashboards, data modeling, and calculated measures.
 
 
@@ -79,5 +79,9 @@ The dashboard enables users to explore trends, compare metrics, and make data-dr
 ## 👤 Author
 TechnoBear
 Undergraduate in Statistics (Data Science Specialization)
+
+
+## 🙌 Acknowledgements
+This project was completed as part of Atomcamp’s Data Analytics learning program.
 
 ---
